@@ -1,0 +1,15 @@
+{
+  "name": "flora-ckeditor",
+  "version": "1.0.0",
+  "description": "CKEditor4 build for the Michigan Flora site.",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.umich.edu:lsa-ts-rsp/flora-ckeditor.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
